@@ -1,0 +1,11 @@
+.app{
+    height: 100vh;
+}
+.app__Body{
+    display: flex;
+    /* height: 100%; */
+    height: 89vh;
+}
+.SideBar{
+    flex: 0.4 !important;
+}
